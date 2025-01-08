@@ -21,11 +21,11 @@ This project focuses on analyzing the distribution of COVID-19 data in Indonesia
 
 ## Dataset Overview
 The [dataset](https://www.kaggle.com/datasets/hendratno/covid19-indonesia) contains 3,493 rows with 38 columns, but the ones I used are: 
-- Date: Daily record of cases and deaths.
-- Province: Regional breakdown of data.
-- New Cases: Daily number of confirmed cases.
-- Total Cases: Cumulative count of confirmed cases.
-- New Deaths: Daily number of reported deaths.
-- Total Deaths: Cumulative count of deaths.
-- Recoveries: Total number of recovered cases.
+- **Date**: Daily record of cases and deaths.
+- **Province**: Regional breakdown of data.
+- **New Cases**: Daily number of confirmed cases.
+- **Total Cases**: Cumulative count of confirmed cases.
+- **New Deaths**: Daily number of reported deaths.
+- **Total Deaths**: Cumulative count of deaths.
+- **Recoveries**: Total number of recovered cases.
 
