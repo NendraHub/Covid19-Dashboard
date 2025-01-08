@@ -31,3 +31,15 @@ The [dataset](https://www.kaggle.com/datasets/hendratno/covid19-indonesia) conta
 
 Preprocessing of the dataset is done by removing all rows that contain null or missing values. This step is taken to ensure the integrity of the data used in the analysis is more optimal, so that the results of data visualization in Tableau can be presented accurately and without interference due to data anomalies. Thus, the analysis carried out becomes more credible and provides clearer and more reliable insights for decision making.
 
+## Tools Used
+- Microsoft Excel: Used for data preprocessing.
+- Tableau: Used for data analysis and creating interactive visualizations.
+
+## Feature
+The interactive dashboard is equipped with filters based day, month, year.
+
+These features make it easier for users to explore and interpret the analysis results.
+
+## Key Findings
+- In 2021, sales coverage expanded from 9 states in 2020 to over 50 states.
+- This expansion significantly contributed to increased sales values, particularly in Sales by Method and Sales by Retail categories.
