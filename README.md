@@ -27,5 +27,7 @@ The [dataset](https://www.kaggle.com/datasets/hendratno/covid19-indonesia) conta
 - **Total Cases**: Cumulative count of confirmed cases.
 - **New Deaths**: Daily number of reported deaths.
 - **Total Deaths**: Cumulative count of deaths.
-- **Recoveries**: Total number of recovered cases.
+- **Recoveries**: Total number of recovered cases
+
+Preprocessing of the dataset is done by removing all rows that contain null or missing values. This step is taken to ensure the integrity of the data used in the analysis is more optimal, so that the results of data visualization in Tableau can be presented accurately and without interference due to data anomalies. Thus, the analysis carried out becomes more credible and provides clearer and more reliable insights for decision making.
 
