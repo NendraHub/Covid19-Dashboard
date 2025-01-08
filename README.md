@@ -41,5 +41,4 @@ The interactive dashboard is equipped with filters based day, month, year.
 These features make it easier for users to explore and interpret the analysis results.
 
 ## Key Findings
-- In 2021, sales coverage expanded from 9 states in 2020 to over 50 states.
-- This expansion significantly contributed to increased sales values, particularly in Sales by Method and Sales by Retail categories.
+On July 27, 2021, the highest daily death toll was recorded with 4,140 deaths in a single day, bringing the total deaths up to that point to 174,522 cases. Meanwhile, the highest daily case count occurred on February 16, 2022, with 129,436 new cases reported in a single day, bringing the total cases up to that point to 9,932,089.
